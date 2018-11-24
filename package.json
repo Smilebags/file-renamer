@@ -15,6 +15,7 @@
     "email" : "christopher.cook@outlook.com.au",
     "url" : "https://github.com/Smilebags"
   },
+  "bugs": "https://github.com/Smilebags/file-renamer", 
   "license": "ISC",
   "preferGlobal": true
 }
