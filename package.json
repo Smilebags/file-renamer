@@ -1,0 +1,20 @@
+{
+  "name": "file-renamer",
+  "version": "1.0.0",
+  "description": "A simple no-dependency CLI tool for batch renaming files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "file-renamer": "./index.js"
+  },
+  "keywords": ["file", "renamer", "CLI", "regex", "rename"],
+  "author": {
+    "name" : "Chris Cook",
+    "email" : "christopher.cook@outlook.com.au",
+    "url" : "https://github.com/Smilebags"
+  },
+  "license": "ISC",
+  "preferGlobal": true
+}
